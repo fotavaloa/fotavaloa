@@ -34,19 +34,19 @@ Me gusta crear aplicaciones útiles y estoy en constante aprendizaje.
 
 ### 📱 QR Scanner en Flutter
 Aplicación móvil para leer códigos QR de forma rápida y eficiente.  
-🔗 *Repositorio:* https://github.com/fotavaloa/qr-scanner
+🔗 *Repositorio:* https://github.com/fotavaloa/AppMoil-QRScanner
 
 ---
 
 ### 📦 Sistema de Inventario (Node.js + Express)
 Sistema básico de inventario con CRUD completo.  
-🔗 *Repositorio:* https://github.com/fotavaloa/inventario-node
+🔗 *Repositorio:* https://github.com/fotavaloa/Sistema-de-Inventarios
 
 ---
 
 ### 🚨 SISB ― Alarma comunitaria
 Aplicación móvil para emergencias que permite activar una alarma comunitaria.  
-🔗 *Repositorio:* https://github.com/fotavaloa/SISB
+🔗 *Repositorio:* https://github.com/fotavaloa/SISB2.0
 
 ---
 
