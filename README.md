@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **fotavaloa/fotavaloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,10 +23,10 @@ Me gusta crear aplicaciones útiles y estoy en constante aprendizaje.
 ---
 
 ## 🚀 Tecnologías que manejo
-- **Lenguajes:** JavaScript, TypeScript, Python, Dart  
-- **Frameworks:** Flutter, Express, Ionic  
-- **Bases de datos:** MySQL, MongoDB  
-- **Herramientas:** Git, GitHub, VS Code, Power BI  
+- **Lenguajes:** JavaScript, TypeScript, Python, Dart, Java 
+- **Frameworks:** Flutter, Express, Ionic, JSf  
+- **Bases de datos:** PostgreSQL, MongoDB, MYSQL  
+- **Herramientas:** Git, GitHub, VS Code, Power BI, Eclipse, NetBeans
 
 ---
 
