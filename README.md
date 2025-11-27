@@ -63,4 +63,4 @@ Proyectos utilizando:
 ## 📫 Contacto
 📧 freddy1otavalo@gmail.com  
 💼 LinkedIn:https://www.linkedin.com/in/freddy-otavalo-834b21373
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
